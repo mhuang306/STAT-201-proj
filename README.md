@@ -1,2 +1,2 @@
 # dsci-100-project_template
-Template project repository for STAT-210-proj
+Template project repository for STAT-201-proj
